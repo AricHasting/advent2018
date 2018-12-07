@@ -1,0 +1,1 @@
+puts STDIN.map {|l| l.to_i}.sum
